@@ -1,0 +1,18 @@
+header {
+    font-size: 40px; color: rgb(15, 240, 240);
+    text-align: center;
+}
+h1 {
+    align-content: center;
+    background-color: rgb(242, 233, 221);
+    font-size: 40px; color: rgb(15, 240, 240);
+    width: 610px;
+}
+div {
+    border:  5 px solid white;
+    padding-bottom: 15px;
+    padding-left: 80px;
+}
+image {
+    border: 5px solid rgb(0, 0, 0);
+}
